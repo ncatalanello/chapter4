@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Library
+comment1.params=libNm\ size
+comment1.target=Library(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=otherBook
+comment3.target=void\ addBook(Book)
+comment4.params=b\ i
+comment4.target=void\ addBook(Book,\ int)
+numComments=5
